@@ -1,6 +1,8 @@
 package com.zipcodewilmington.froilansfarm;
 
-public class Tractor {
+import com.zipcodewilmington.froilansfarm.edible.Crop;
+
+public class Tractor extends FarmVehicle{
 
     public void harvest(Crop crop) {}
 }
