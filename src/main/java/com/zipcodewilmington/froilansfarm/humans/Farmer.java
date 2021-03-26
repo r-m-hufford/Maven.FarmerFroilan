@@ -4,21 +4,16 @@ import com.zipcodewilmington.froilansfarm.Rideable;
 import com.zipcodewilmington.froilansfarm.Rider;
 import com.zipcodewilmington.froilansfarm.edible.Edible;
 
-import java.util.ArrayList;
-import java.util.List;
 
-public class Farmer extends Person implements Botanist, Rider, Pilot{
+public class Farmer extends Person implements Botanist, Rider{
     private String name;
+
+
 
     public Farmer (String name) {
         this.name = name;
 
     }
-
-    public String getName(){
-        return this.name;
-    }
-
     public void plantCrop() {
 
     }
