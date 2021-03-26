@@ -1,7 +1,7 @@
-package com.zipcodewilmington.froilansfarm;
+package com.zipcodewilmington.froilansfarm.animals;
 
-import com.zipcodewilmington.froilansfarm.Animal;
 import com.zipcodewilmington.froilansfarm.Produce;
+import com.zipcodewilmington.froilansfarm.animals.Animal;
 import com.zipcodewilmington.froilansfarm.edible.Edible;
 
 public class Chicken extends Animal implements Produce {
