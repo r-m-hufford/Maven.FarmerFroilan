@@ -7,8 +7,21 @@ public class CropRow {
 
     private Map<Integer, Crop> rows;
 
-    public CropRow(Crop crop) {
+    public CropRow() {
         this.rows = new HashMap<Integer, Crop>();
+    }
+
+    public Map setOneRow(int rowNum, Crop crop) {
+        this.rows.put(rowNum, crop);
+        return this.rows;
+    }
+
+    public Map getRows() {
+        return this.rows;
+    }
+
+    public Crop getOneRow(int row) {
+        return this.rows.get(row);
     }
 
 }
