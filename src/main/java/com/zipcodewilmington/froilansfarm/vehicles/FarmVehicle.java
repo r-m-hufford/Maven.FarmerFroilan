@@ -1,4 +1,4 @@
-package com.zipcodewilmington.froilansfarm;
+package com.zipcodewilmington.froilansfarm.vehicles;
 
 public abstract class FarmVehicle implements Vehicle {
 
