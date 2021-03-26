@@ -4,5 +4,7 @@ import com.zipcodewilmington.froilansfarm.fieldsAndCrops.Crop;
 
 public class Tractor extends FarmVehicle {
 
-    public void harvest(Crop crop) {}
+    public void harvest(Crop crop) {
+
+    }
 }
