@@ -1,4 +1,4 @@
-package com.zipcodewilmington.froilansfarm.FieldsAndCrops;
+package com.zipcodewilmington.froilansfarm.fieldsAndCrops;
 
 import com.zipcodewilmington.froilansfarm.Produce;
 

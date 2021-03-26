@@ -1,6 +1,5 @@
-package com.zipcodewilmington.froilansfarm.FieldsAndCrops;
+package com.zipcodewilmington.froilansfarm.fieldsAndCrops;
 
-import com.zipcodewilmington.froilansfarm.FieldsAndCrops.Crop;
 import com.zipcodewilmington.froilansfarm.edible.Edible;
 
 public class TomatoPlant extends Crop {

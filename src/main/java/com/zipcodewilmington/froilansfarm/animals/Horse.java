@@ -5,6 +5,11 @@ import com.zipcodewilmington.froilansfarm.animals.Animal;
 import com.zipcodewilmington.froilansfarm.edible.Edible;
 
 public class Horse extends Animal implements Rideable {
+
+    public Horse(){
+
+    }
+
     public void eat(Edible edible) {
 
     }

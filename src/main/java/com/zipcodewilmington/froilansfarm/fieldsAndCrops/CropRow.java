@@ -1,6 +1,4 @@
-package com.zipcodewilmington.froilansfarm.FieldsAndCrops;
-
-import com.zipcodewilmington.froilansfarm.FieldsAndCrops.Crop;
+package com.zipcodewilmington.froilansfarm.fieldsAndCrops;
 
 import java.util.HashMap;
 import java.util.Map;

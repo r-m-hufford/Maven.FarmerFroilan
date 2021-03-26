@@ -1,8 +1,10 @@
-package com.zipcodewilmington.froilansfarm;
+package com.zipcodewilmington.froilansfarm.humans;
 
+import com.zipcodewilmington.froilansfarm.Rideable;
+import com.zipcodewilmington.froilansfarm.Rider;
 import com.zipcodewilmington.froilansfarm.edible.Edible;
 
-public class Farmer extends Person implements Botanist, Rider, Pilot{
+public class Farmer extends Person implements Botanist, Rider, Pilot {
     public void plantCrop() {
 
     }
