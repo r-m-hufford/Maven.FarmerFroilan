@@ -16,11 +16,15 @@ public class ChickenCoop {
         }
     }
 
-    public List<Chicken> getChickens() {
-        return chickens;
+    public Integer getChickens() {
+        return chickens.size();
     }
 
     public void setChickens(List<Chicken> chickens) {
         this.chickens = chickens;
+    }
+
+    public void addChickens(Chicken chickens) {
+        this.chickens.add(chickens);
     }
 }
