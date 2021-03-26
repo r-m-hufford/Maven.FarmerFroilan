@@ -1,7 +1,7 @@
 package com.zipcodewilmington.froilansfarm;
 
 import com.zipcodewilmington.froilansfarm.fieldsAndCrops.Field;
-import com.zipcodewilmington.froilansfarm.vehicles.Aircraft;
+import com.zipcodewilmington.froilansfarm.vehicles.CropDuster;
 import com.zipcodewilmington.froilansfarm.vehicles.Tractor;
 import org.junit.Assert;
 import org.junit.Test;

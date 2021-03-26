@@ -19,6 +19,10 @@ public class Stable {
         return horses.size();
     }
 
+    public Horse getHorse(int index) {
+        return this.horses.get(index);
+    }
+
     public void addHorse(Horse horse) {
         this.horses.add(horse);
     }
