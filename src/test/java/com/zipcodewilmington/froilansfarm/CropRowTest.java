@@ -1,9 +1,9 @@
 package com.zipcodewilmington.froilansfarm;
 
+import com.zipcodewilmington.froilansfarm.edible.Tomato;
 import com.zipcodewilmington.froilansfarm.fieldsAndCrops.Crop;
 import com.zipcodewilmington.froilansfarm.fieldsAndCrops.CropRow;
 import com.zipcodewilmington.froilansfarm.fieldsAndCrops.TomatoPlant;
-import com.zipcodewilmington.froilansfarm.fieldsAndCrops.CropRow;
 import org.junit.Assert;
 import org.junit.Test;
 
