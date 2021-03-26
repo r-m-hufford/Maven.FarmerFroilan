@@ -10,11 +10,13 @@ import java.util.List;
 public class Farmer extends Person implements Botanist, Rider, Pilot{
     private String name;
 
-
-
     public Farmer (String name) {
         this.name = name;
 
+    }
+
+    public String getName(){
+        return this.name;
     }
 
     public void plantCrop() {
